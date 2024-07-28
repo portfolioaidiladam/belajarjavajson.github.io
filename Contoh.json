@@ -1,0 +1,27 @@
+{
+  "id": "1",
+  "name": "Aidil",
+  "hobbies": null,
+  "address": null,
+  "createdAt": "2024-07-17 09:33:16",
+  "updatedAt": "2024-07-17",
+  "full_name": "Adam"
+}
+
+
+{
+  "id": "1",
+  "name": "Eko",
+  "hobbies": [
+    "Coding",
+    "Reading"
+  ],
+  "address": {
+    "street": "Jalan belum jadi",
+    "city": "Jakarta",
+    "country": "Indonesia"
+  },
+  "createdAt": null,
+  "updatedAt": null,
+  "full_name": null
+}
